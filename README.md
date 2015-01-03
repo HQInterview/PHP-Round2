@@ -15,6 +15,5 @@ Verify applicants ability to handle uknown, badly written and structured code.
 
 
 ##### Prerequisite
-* Download, install, register in [ScreenHero app](http://screenhero.com/)
-* Add Josef as a contact - josef.nevoral@hotelquickly.com
 * Clone this repository
+* Prepare your development environment
